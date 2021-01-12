@@ -7,7 +7,7 @@ $(document).ready(function(){
     $(this).children('.dropdown-menu').toggleClass('active');
   });
 
-  //$('.with-dropdown').hover(function(){
-    // $(this).children('evidenzia')toggleClass('active');
-  }
+  // $('.with-dropdown').hover(function(){
+  //   $(this).children('.evidenzia')toggleClass('active');
+  // }
 });
