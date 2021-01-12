@@ -70,7 +70,7 @@ header .dropdown-menu{
   top:60px;
   left:0;
   background-color:white;
-  display: none;
+  /* display: none; */
   box-shadow: 0 2px 10px rgba(177, 75, 167, 0.66);
 }
 .evidenzia.active{
