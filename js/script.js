@@ -5,9 +5,6 @@ $(document).ready(function(){
 
     //ipotesi più dropdown
     $(this).children('.dropdown-menu').toggleClass('active');
+    $(this).children('.evidenzia').toggleClass('active');
   });
-
-  // $('.with-dropdown').hover(function(){
-  //   $(this).children('.evidenzia')toggleClass('active');
-  // }
 });
