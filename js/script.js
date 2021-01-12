@@ -9,5 +9,7 @@ $(document).ready(function(){
   });
   $('.click').click(function(){
     $(this).children('.dropdown-menu').toggleClass('active');
+    $(this).children('.evidenzia').toggleClass('active');
+
   });
 });
